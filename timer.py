@@ -9,3 +9,4 @@ def countdown(seconds):
 
 seconds = int(input("Enter countdown time in seconds: "))
 countdown(seconds)
+# compleated a code for timer 
